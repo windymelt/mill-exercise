@@ -1,0 +1,4 @@
+/out/
+*.~undo-tree~
+.bloop/
+.metals/
